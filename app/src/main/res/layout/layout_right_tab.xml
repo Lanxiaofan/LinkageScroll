@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+<!--        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="证券代码"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="成交价格"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="成交数量"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="成交金额"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="清算金额"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="印花税"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="手续费"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="过户费"
+            android:textColor="#111111"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="成交编号"
+            android:textColor="#111111"
+            android:textSize="15sp" />-->
+
+    </LinearLayout>
+</LinearLayout>

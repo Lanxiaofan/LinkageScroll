@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application5</string>
+
+    <!--RightAdapter 中ViewHolder使用-->
+    <item name="view_holder_position" type="id"/>
+    
+</resources>
